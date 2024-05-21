@@ -7,7 +7,7 @@ import SignIn from './src/screens/sign';
 function App():JSX.Element{
 
   return(
-    <SignIn/>
+    <CadastroMusica/>
   );
 }
 
